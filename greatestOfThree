@@ -1,0 +1,8 @@
+# This code returns the greatest of 3 intergers
+
+a = 1                         #
+b = 3                         # establish variables
+c = 5                         #
+
+myArray = sorted([a, b, c])   # create a sorted array
+print myArray[2]              # print index 2
